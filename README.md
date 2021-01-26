@@ -1,4 +1,5 @@
-### I'm a software Engineer based in Montevideo Uruguay, specializing in building websites, and everything in between. 👋
+### I'm Daniel Nacher 👋
+a software Engineer based in Montevideo Uruguay, specializing in building websites, and everything in between.
 
  - :octocat: Backend 
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
