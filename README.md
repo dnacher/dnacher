@@ -10,13 +10,15 @@ a software Engineer based in Montevideo Uruguay, specializing in building websit
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
 - ⚙️ &nbsp;VCS: &nbsp;
-         ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git) 
-         
-         
-<a href="https://github.com/dnacher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnacher&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+         ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnacher" />
 </a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnacher&layout=compact&langs_count=8&card_width=320" />
+</a>   
+         
 <!--
 **dnacher/dnacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
