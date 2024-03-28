@@ -13,10 +13,10 @@ a software Engineer based in Montevideo Uruguay, specializing in building websit
          ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnacher&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnacher&theme=tokyonight&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnacher&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnacher&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide=contribs" />
 </a>   
          
 <!--
